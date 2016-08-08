@@ -1,0 +1,14 @@
+layout_spectrum: 0.5700295972637832
+typography_spectrum: 0.5879094100091606
+color:
+  brandStrength: 0.09990824456326663
+  lightness: 0.3459842377342284
+  saturation: 0.006917898543179035
+  rhythmicContrast: 0.7227246933616698
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: BrandWorx
